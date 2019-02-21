@@ -13,5 +13,5 @@ spring:
   cloud:
     bus:
       trace:
-        enabled:ture
+        enabled: ture
 foo: foo version 1
