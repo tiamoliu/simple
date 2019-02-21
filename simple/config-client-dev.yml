@@ -10,8 +10,4 @@ spring:
     post: 5672
     username: guest
     password: guest
-  cloud:
-    bus:
-      trace:
-        enabled: ture
 foo: foo version 1
