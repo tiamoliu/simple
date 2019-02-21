@@ -4,4 +4,13 @@ eureka:
   client:
     service-url:
       defaultZone: http://localhost:8761/eureka/
+spring:
+  rabbitmq:
+    host: localhost
+    post: 5672
+    username: guest
+    password: guest
+management:
+  security:
+    enabled: false
 foo: foo version 1
