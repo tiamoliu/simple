@@ -10,4 +10,4 @@ spring:
     post: 5672
     username: guest
     password: guest
-foo: foo version 2
+foo: foo version 1
